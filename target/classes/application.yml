@@ -1,7 +1,0 @@
-canal:
-  ip: 192.168.56.104
-  destination: example
-  port: 11111
-  username:
-  password:
-  tables: test.test,test.test1,test.test2
